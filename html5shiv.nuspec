@@ -8,6 +8,6 @@
   </metadata>
   <files>
     <file src="dist\html5shiv.js" target="content\scripts" />
-    <file src="html5shiv.cshtml" target="content\views\shared" />
+    <file src="_html5shiv.cshtml" target="content\views\shared" />
   </files>
 </package>

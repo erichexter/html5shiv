@@ -5,6 +5,7 @@
     <version>1.0.0</version>
     <authors>Alexander Farkas</authors>
     <description>This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer</description>
+    <projectUrl>https://github.com/erichexter/html5shiv</projectUrl>
   </metadata>
   <files>
     <file src="dist\html5shiv.js" target="content\scripts" />

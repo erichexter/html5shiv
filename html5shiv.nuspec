@@ -8,7 +8,7 @@
     <projectUrl>https://github.com/erichexter/html5shiv</projectUrl>
   </metadata>
   <files>
-    <file src="dist\html5shiv.js" target="content\scripts" />
-    <file src="_html5shiv.cshtml" target="content\views\shared" />
+    <file src="dist\html5shiv.js" target="Content\scripts" />
+    <file src="_html5shiv.cshtml" target="Content\Views\Shared" />
   </files>
 </package>
